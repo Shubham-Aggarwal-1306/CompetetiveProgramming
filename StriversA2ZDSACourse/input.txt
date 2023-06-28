@@ -1,32 +1,5 @@
-1
-7
-ijkl
-100
-i hate maths
-90
-i love gfg
-5
-i love geeksforgeeks
-3
-i love gaming
-5
-i lob gfg
-99
-i lov geeksforgeeks
-12
-15
-i love gfg#
-i lob gfg#
-i lov gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i like gfg#
-i lob geeksforgeeks#
+4
+1 4
+2 3
+4 5
+8 4
