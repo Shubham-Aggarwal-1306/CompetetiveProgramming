@@ -1,0 +1,401 @@
+Typed : "i" , Suggestions: 
+ijkl
+i lob gfg
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gaming
+Typed : "i lo" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gaming
+Typed : "i lov" , Suggestions: 
+i lov geeksforgeeks
+i love gaming
+i love gfg
+Typed : "i love" , Suggestions: 
+i love gaming
+i love gfg
+i love geeksforgeeks
+Typed : "i love " , Suggestions: 
+i love gaming
+i love gfg
+i love geeksforgeeks
+Typed : "i love g" , Suggestions: 
+i love gaming
+i love gfg
+i love geeksforgeeks
+Typed : "i love gf" , Suggestions: 
+i love gfg
+Typed : "i love gfg" , Suggestions: 
+i love gfg
+Typed : "i" , Suggestions: 
+ijkl
+i lob gfg
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i lo" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i lob" , Suggestions: 
+i lob gfg
+Typed : "i lob " , Suggestions: 
+i lob gfg
+Typed : "i lob g" , Suggestions: 
+i lob gfg
+Typed : "i lob gf" , Suggestions: 
+i lob gfg
+Typed : "i lob gfg" , Suggestions: 
+i lob gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i lo" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i lov" , Suggestions: 
+i lov geeksforgeeks
+i love gfg
+i love gaming
+Typed : "i lov " , Suggestions: 
+i lov geeksforgeeks
+Typed : "i lov g" , Suggestions: 
+i lov geeksforgeeks
+Typed : "i lov gf" , Suggestions: 
+Typed : "i lov gfg" , Suggestions: 
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i li" , Suggestions: 
+Typed : "i lik" , Suggestions: 
+Typed : "i like" , Suggestions: 
+Typed : "i like " , Suggestions: 
+Typed : "i like g" , Suggestions: 
+Typed : "i like gf" , Suggestions: 
+Typed : "i like gfg" , Suggestions: 
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i like gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i like gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i like gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i like gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i like gfg
+Typed : "i li" , Suggestions: 
+i like gfg
+Typed : "i lik" , Suggestions: 
+i like gfg
+Typed : "i like" , Suggestions: 
+i like gfg
+Typed : "i like " , Suggestions: 
+i like gfg
+Typed : "i like g" , Suggestions: 
+i like gfg
+Typed : "i like gf" , Suggestions: 
+i like gfg
+Typed : "i like gfg" , Suggestions: 
+i like gfg
+Typed : "i" , Suggestions: 
+i lob gfg
+ijkl
+i hate maths
+Typed : "i " , Suggestions: 
+i lob gfg
+i hate maths
+i lov geeksforgeeks
+Typed : "i l" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i like gfg
+Typed : "i lo" , Suggestions: 
+i lob gfg
+i lov geeksforgeeks
+i love gfg
+Typed : "i lob" , Suggestions: 
+i lob gfg
+Typed : "i lob " , Suggestions: 
+i lob gfg
+Typed : "i lob g" , Suggestions: 
+i lob gfg
+Typed : "i lob ge" , Suggestions: 
+Typed : "i lob gee" , Suggestions: 
+Typed : "i lob geek" , Suggestions: 
+Typed : "i lob geeks" , Suggestions: 
+Typed : "i lob geeksf" , Suggestions: 
+Typed : "i lob geeksfo" , Suggestions: 
+Typed : "i lob geeksfor" , Suggestions: 
+Typed : "i lob geeksforg" , Suggestions: 
+Typed : "i lob geeksforge" , Suggestions: 
+Typed : "i lob geeksforgee" , Suggestions: 
+Typed : "i lob geeksforgeek" , Suggestions: 
+Typed : "i lob geeksforgeeks" , Suggestions: 
