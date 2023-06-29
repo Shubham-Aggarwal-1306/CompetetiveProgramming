@@ -38,7 +38,7 @@ class Solution {
         switch (choice)
         {
         case 1:
-            area = M_PI * arr[0] * arr[0];
+            area = 3.14 * arr[0] * arr[0];
             return area;
             break;
         case 2:
