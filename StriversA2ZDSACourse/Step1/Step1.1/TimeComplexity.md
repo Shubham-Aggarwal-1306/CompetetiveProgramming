@@ -14,5 +14,3 @@
 - Similar to time complexity, space complexity is represented using Big O notation.
 - The article emphasizes the importance of not manipulating given data to reduce space complexity unless explicitly instructed by the interviewer.
 - It mentions that companies may use the same data for different purposes, so it's important to avoid manipulating the given data.
-
-Overall, the article provides an introduction to time complexity and space complexity, explains how to calculate them using Big O notation, and offers some guidance on good coding practices related to space complexity.
