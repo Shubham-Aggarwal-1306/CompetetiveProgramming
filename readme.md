@@ -35,7 +35,7 @@
 
 ## 📖 Introduction
 
-Hey Folks!!! Shubham Here, While Some may find this repo nooteworthy and some may not I am just starting this one to keep track of my own progress so that I will not be able to forget what I have learned and what I have not. I will be updating this repo on a daily basis and will be adding all the resources and problems that I have solved during my journey towards learning Competitive Programming and Interview Preperation
+Hey Folks!!! Shubham Here, While Some may find this repo noteworthy and some may not I am just starting this one to keep track of my own progress so that I will not be able to forget what I have learned and what I have not. I will be updating this repo on a daily basis and will be adding all the resources and problems that I have solved during my journey towards learning Competitive Programming and Interview Preperation
 
 <!-- Resources -->
 
@@ -102,6 +102,8 @@ Hey Folks!!! Shubham Here, While Some may find this repo nooteworthy and some ma
     I have Created folders according to the steps of the Cheetsheet which will make it easier to navigate through the problems.
     <br>
     Problems are solved in C++
+    <br>
+    GeekForGeeks is used as the online judge for the problems.
 </details>
 
 
