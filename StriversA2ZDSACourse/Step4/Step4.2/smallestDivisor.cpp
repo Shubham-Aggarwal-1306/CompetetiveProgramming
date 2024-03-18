@@ -1,11 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 long long func(vector<int> &arr, int div) {
   long long sum = 0;
   for (int i : arr) {
-    sum += (i / div);
-    cout << sum << " ";
+    sum += ((i + div - 1)/ div);
   }
   return sum;
 }
@@ -28,11 +28,4 @@ int smallestDivisor(vector<int> &arr, int limit) {
     }
   }
   return result;
-}
-
-int main() {
-  vector<int> arr = {1, 2, 5, 9};
-  int limit = 6;
-  cout << smallestDivisor(arr, limit);
-  return 0;
 }
