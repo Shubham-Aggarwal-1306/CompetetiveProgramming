@@ -1,41 +1,44 @@
 //{ Driver Code Starts
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
-
 // } Driver Code Ends
-class Solution{
-    public:
+class Solution
+{
+public:
     // arr: input array
     // n: size of array
-    //Function to find the sum of contiguous subarray with maximum sum.
-    long long maxSubarraySum(int arr[], int n){
-        
+    // Function to find the sum of contiguous subarray with maximum sum.
+    long long maxSubarraySum(int arr[], int n)
+    {
+
         // Your code here
-    long long maxi = LONG_MIN; // maximum sum
-    long long sum = 0;
+        long long maxi = LONG_MIN; // maximum sum
+        long long sum = 0;
 
-    for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+        {
 
-        sum += arr[i];
+            sum += arr[i];
 
-        if (sum > maxi) {
-            maxi = sum;
+            if (sum > maxi)
+            {
+                maxi = sum;
+            }
+
+            // If sum < 0: discard the sum calculated
+            if (sum < 0)
+            {
+                sum = 0;
+            }
         }
 
-        // If sum < 0: discard the sum calculated
-        if (sum < 0) {
-            sum = 0;
-        }
-    }
+        // To consider the sum of the empty subarray
+        // uncomment the following check:
 
-    // To consider the sum of the empty subarray
-    // uncomment the following check:
+        // if (maxi < 0) maxi = 0;
 
-    //if (maxi < 0) maxi = 0;
-
-    return maxi;
-        
+        return maxi;
     }
 };
 
@@ -43,21 +46,21 @@ class Solution{
 
 int main()
 {
-    int t,n;
-    
-    cin>>t; //input testcases
-    while(t--) //while testcases exist
+    int t, n;
+
+    cin >> t;   // input testcases
+    while (t--) // while testcases exist
     {
-        
-        cin>>n; //input size of array
-        
+
+        cin >> n; // input size of array
+
         int a[n];
-        
-        for(int i=0;i<n;i++)
-            cin>>a[i]; //inputting elements of array
-            
+
+        for (int i = 0; i < n; i++)
+            cin >> a[i]; // inputting elements of array
+
         Solution ob;
-        
+
         cout << ob.maxSubarraySum(a, n) << endl;
     }
 }

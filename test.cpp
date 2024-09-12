@@ -1,38 +1,63 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-long long func(vector<int> &arr, int div) {
-  long long sum = 0;
-  for (int i : arr) {
-    sum += (i / div);
-    cout << sum << " ";
-  }
-  return sum;
-}
+class Solution
+{
+    public:
+    vector<int> subarraySum(vector<int>arr, int n, long long s)
+    {
+        long long sum = 0;
+        int i = 0;
+        int start = -1;
+        int end = -1;
+        for (int j =0; j<n; j++) {
+            sum+=arr[j];
+            while ((sum>s) && (i<=j)) {
+                sum-=arr[i];
+                i++;
+            }
+            if (sum==s){
+                start = i;
+                end = j;
+                break;
+            }
+        }
+        if (start!=-1) {
+            vector<int> arr2{ start+1, end+1 };
+            return arr2;
+        } else {
+            vector<int> arr2{ -1 };
+            return arr2;
+        }
 
-int smallestDivisor(vector<int> &arr, int limit) {
-  // Write your code here.
-  int maxi = *max_element(arr.begin(), arr.end());
-  int low = 1, high = maxi;
-  int result = -1;
-  while (low <= high) {
-    int mid = (low + high) / 2;
-
-    long long ans = func(arr, mid);
-
-    if (ans <= limit) {
-      high = mid - 1;
-	  result = mid;
-    } else {
-      low = mid + 1;
     }
-  }
-  return result;
-}
+};
 
-int main() {
-  vector<int> arr = {1, 2, 5, 9};
-  int limit = 6;
-  cout << smallestDivisor(arr, limit);
-  return 0;
+int main()
+ {
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        int n;
+        long long s;
+        cin>>n;
+        vector<int>arr(n);
+        for(int i=0;i<n;i++)
+        {
+            cin>>arr[i];
+        }
+        
+        cin >> s;
+        
+        Solution ob;
+        vector<int>res;
+        res = ob.subarraySum(arr, n, s);
+        
+        for(int i = 0;i<res.size();i++)
+            cout<<res[i]<<" ";
+        cout<<endl;
+        
+    }
+    return 0;
 }
